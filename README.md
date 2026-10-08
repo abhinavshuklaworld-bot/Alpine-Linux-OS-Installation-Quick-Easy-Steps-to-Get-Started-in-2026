@@ -1,0 +1,2 @@
+# Alpine-Linux-OS-Installation-Quick-Easy-Steps-to-Get-Started-in-2026
+If you’re looking for a Linux distribution that is fast, lightweight, and doesn’t come loaded with software, you can use Alpine Linux.  Alpine Linux has built a strong reputation for keeping things simple. It’s small enough to run comfortably on systems with limited resources, yet flexible enough to power servers, virtual machines, 
